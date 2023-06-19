@@ -9,5 +9,5 @@ The advice is provided in the form of Noteable notebooks and is specific to the 
 Before using the helper scripts, they must be updated for the specific project needs. This involves updating the Github repository and other relevant details.
 
 Links:
-- [Helper Scripts](https://github.com/matthewhand/noteable-helper-scripts/tree/main/notebooks)
-- [Advice](https://github.com/matthewhand/noteable-helper-scripts/tree/main/notebooks/advice)
+- [Helper Scripts](https://github.com/matthewhand/noteable-helper-scripts/tree/main/notebooks/README.md)
+- [Advice](https://github.com/matthewhand/noteable-helper-scripts/tree/main/notebooks/README-advice.md)
