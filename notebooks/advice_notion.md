@@ -13,3 +13,5 @@ headers = {
 ```
 
 3. **Database Structure**: This guide assumes that each project is a page in the database, and that the page has a 'Name' property (the name of the project) and a 'Status' property (the status of the project). If your database is structured differently, you may need to adjust your scripts accordingly.
+
+4. **Content Length**: Notion has a hard limit of 2000 characters for the blog post.  Please keep it under this.
